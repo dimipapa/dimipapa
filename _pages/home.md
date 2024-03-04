@@ -1,7 +1,7 @@
 ---
-title: "Dim P. Papadopoulos - Home"
+title: "Dim Papadopoulos - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Dim Papadopoulos."
 sitemap: false
 permalink: /
 ---
