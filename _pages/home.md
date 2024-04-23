@@ -7,24 +7,15 @@ permalink: /
 ---
 
 <div class="container-fluid">
-	
-<div class="row">
-	
-	<div class="col-sm-4">	
-		
+ <div class="row">
+	<div class="col-sm-4" markdown="1">	
 		<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/dim.jpg" width="40%">
-  
 	</div>
- 
-	<div class="col-sm-4">
- 
+	<div class="col-sm-4" markdown="1">
 		I am currently a tenured Associate Professor at the Department of Computer Science and Applied Mathematics at the [Technical University of Denmark (DTU)](https://www.dtu.dk/english) in Copenhagen, Denmark. From 2018 to 2021, I was a postdoctoral researcher at [MIT CSAIL](https://www.csail.mit.edu/) working with [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/). Before joining MIT, I obtained my PhD from the [University of Edinburgh](https://www.ed.ac.uk/), under the supervision of [Prof. Vittorio Ferrari](https://sites.google.com/view/vittoferrari) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). I received my M.Sc and M.Eng from [Democritus University of Thrace (Duth)](https://duth.gr/en), Greece in 2013 and 2011, respectively. My research is in the area of computer vision and I mainly focus on 
 learning visual recognition models under limited supervision.
-
 	</div>
- 
- </div>
- 
+  </div>
  </div>
 
 
