@@ -69,8 +69,8 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 110px">  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 80px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 80px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 80px">
 </figure>
