@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+
 <div class="row">
 	<div class="col-sm-2">	
 		<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/dim.jpg" width="40%">
