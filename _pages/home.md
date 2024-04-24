@@ -13,8 +13,8 @@ permalink: /
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/dim.jpg" width="100%">
 </div>
 <div class="col-sm-7">
-  <h1>Dim Papadopoulos</h1> 
-  <h3> Associate Professor</h3> 
+  <p><h1>Dim Papadopoulos</h1> 
+  <h3> Associate Professor</h3></p>
   <p> Section for Visual Computing </p>
   <p> Department of Applied Mathematics and Computer Science </p>
   <p> Technical University of Denmark (DTU) </p>
