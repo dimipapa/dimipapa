@@ -28,13 +28,10 @@ permalink: /
 learning visual recognition models under limited supervision. <br><br></p>
 
 
-<div class="p-3 mb-2 bg-primary text-white"><b>Open PostDoc Position</b> in the area of computer vision with deep learning for material and computational design in collaboration with the Royal Danish Academy. [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare) Deadline: 15 May 2024</div>
+<div class="p-3 mb-2 bg-primary text-white"> 
+<b>Open PostDoc Position</b> in the area of computer vision with deep learning for material and computational design in collaboration with the Royal Danish Academy. [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare) Deadline: 15 May 2024
+</div>
 
-
-
-<!--
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
- -->
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height:70px">
 
