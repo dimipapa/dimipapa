@@ -91,3 +91,8 @@ firstp {
     margin-right: 30px;
 }
 
+.text-bg-danger {
+  color: #fff !important;
+  background-color: RGBA(var(--bs-danger-rgb), var(--bs-bg-opacity, 1)) !important;
+}
+
