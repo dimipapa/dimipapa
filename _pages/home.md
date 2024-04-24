@@ -31,9 +31,9 @@ learning visual recognition models under limited supervision. <br><br></p>
 <span class="badge rounded-pill text-bg-danger">**Open PostDoc Position** Deadline: 15 May 2024 [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare) </span>
 -->
 
-<div class="alert alert-dark" role="alert">
+<div class="alert alert-warning" role="alert">
   <h2><b>Open PostDoc Position</b></h2> <br>
-  We have an open PostDoc position in computer vision with deep learning for material and computational design.  Deadline: 15 May 2024 [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare)
+  We have an open PostDoc position in computer vision with deep learning for material and computational design.  Deadline: 15 May 2024. [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare)
 </div>
 
 <!--<p>
