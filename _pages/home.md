@@ -14,7 +14,7 @@ permalink: /
 </div>
 <div class="col-sm-7">
   <h1 style="text-align:left;float:left;">Dim Papadopoulos</h1> 
-  <h3 style="text-align:left;float:left;">Associate Professor</h2> 
+  <h3 style="text-align:left;float:left;">Associate Professor</h3> 
   <p> Section for Visual Computing <br>
   Department of Applied Mathematics and Computer Science <br>
   Technical University of Denmark (DTU) <br>
