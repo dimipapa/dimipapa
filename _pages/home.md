@@ -9,7 +9,7 @@ permalink: /
 <div class="container">
 </div>
 
-<div class="col-sm-5" style=table-layout: fixed;">	
+<div class="col-sm-5" style="table-layout: fixed;">	
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/dim.jpg" width="100%">
 </div>
 <div class="col-sm-7" style=table-layout: fixed;">
