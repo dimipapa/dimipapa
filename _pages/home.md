@@ -32,17 +32,17 @@ learning visual recognition models under limited supervision.
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
  -->
 
-<div class="col-sm-3">	
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 70px">
+<div class="col-sm-2">	
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 60px">
 </div>
-<div class="col-sm-3">	
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 70px">
+<div class="col-sm-4">	
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 60px">
 </div>
-<div class="col-sm-3">	
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 70px">
+<div class="col-sm-4">	
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 60px">
 </div>
-<div class="col-sm-3">	
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 70px">
+<div class="col-sm-4">	
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 60px">
 </div>
 
 <!--<figure class="fourth"> -->
