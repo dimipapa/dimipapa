@@ -33,8 +33,5 @@ learning visual recognition models under limited supervision.
  -->
 
 <!--<figure class="fourth"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 60px">  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 60px">
 <!--</figure> -->
