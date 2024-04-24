@@ -27,14 +27,11 @@ permalink: /
 <p>I am currently a tenured Associate Professor at the Department of Computer Science and Applied Mathematics at the [Technical University of Denmark (DTU)](https://www.dtu.dk/english) in Copenhagen, Denmark. From 2018 to 2021, I was a postdoctoral researcher at [MIT CSAIL](https://www.csail.mit.edu/) working with [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/). Before joining MIT, I obtained my PhD from the [University of Edinburgh](https://www.ed.ac.uk/), under the supervision of [Prof. Vittorio Ferrari](https://sites.google.com/view/vittoferrari) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). I received my M.Sc and M.Eng from [Democritus University of Thrace (Duth)](https://duth.gr/en), Greece in 2013 and 2011, respectively. My research is in the area of computer vision and I mainly focus on 
 learning visual recognition models under limited supervision. <br><br></p>
 
-
-<div class="p-3 mb-2 bg-danger text-white"> 
-<br><b>Open PostDoc Position</b> in the area of computer vision with deep learning for material and computational design in collaboration with the Royal Danish Academy. Deadline: 15 May 2024 <br> [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare)  <br><br>
-</div>
-
-<div class="badge text-bg-info">
+<p>
+<span class="badge text-bg-danger">
 <b>Open PostDoc Position</b> in computer vision with deep learning for material and computational design in collaboration with the Royal Danish Academy. Deadline: 15 May 2024 <br> [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare)
-</div>
+</span>
+</p>
 
 
 <br><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height:70px">
