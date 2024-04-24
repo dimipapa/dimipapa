@@ -33,8 +33,7 @@ learning visual recognition models under limited supervision. -->
 
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
+<!--<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -43,9 +42,9 @@ learning visual recognition models under limited supervision. -->
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
+    </ol> -->
 
-    <!-- Items -->
+    <!-- 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -75,6 +74,7 @@ learning visual recognition models under limited supervision. -->
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
 
 
 <!--
