@@ -14,7 +14,7 @@ permalink: /
 </div>
 <div class="col-sm-7" style="margin:0; padding-top:0;">
   <h1 style="text-align:left;vertical-align: top;margin:0; padding-top:0;">Dim Papadopoulos</h1> 
-  <h3 style="text-align:left;vertical-align: top;margin:0; padding-top:4px;">Associate Professor</h3> 
+  <h3 style="text-align:left;vertical-align: top;margin:0; padding-top:5px;">Associate Professor</h3> 
   <p style="text-align:left;float:left;vertical-align: top;margin:0; padding-top:2px;">[Section for Visual Computing](https://www.compute.dtu.dk/english/research/research-sections/visual-computing)<br>
   [Department of Applied Mathematics and Computer Science](https://www.compute.dtu.dk/english/) <br>
   [Technical University of Denmark (DTU)](https://www.dtu.dk/english/)<br>
