@@ -29,7 +29,7 @@ learning visual recognition models under limited supervision. <br><br></p>
 
 <span class="badge rounded-pill text-bg-danger">Danger</span>
 
-<span class="badge rounded-pill text-bg-danger">Dark</span>
+<span class="badge rounded-pill text-bg-dark">Dark</span>
 
 
 <!--<p>
