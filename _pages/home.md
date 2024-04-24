@@ -20,7 +20,7 @@ permalink: /
   [Technical University of Denmark (DTU)](https://www.dtu.dk/english/)<br>
   Email<br>
   Contact details <br>
-  Scholar Twitter etc </p>
+  <i class="bi bi-mortarboard-fill"></i> Scholar <i class="bi bi-twitter"></i> Twitter </p>
 </div>
 
 <br>
