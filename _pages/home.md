@@ -13,8 +13,8 @@ permalink: /
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/dim.jpg" width="100%">
 </div>
 <div class="col-sm-7" style="table-layout: fixed;">
-  <h1 style="table-layout: fixed;text-align:left;float:left;vertical-align: top;">Dim Papadopoulos</h1> 
-  <h3 style="text-align:left;float:left;vertical-align: top;">Associate Professor</h3> <br>
+  <h1 style="text-align:left;vertical-align: top;">Dim Papadopoulos</h1> 
+  <h3 style="text-align:left;vertical-align: top;">Associate Professor</h3> <br>
   <p style="text-align:left;float:left;vertical-align: top;"> Section for Visual Computing <br>
   Department of Applied Mathematics and Computer Science <br>
   Technical University of Denmark (DTU) <br>
