@@ -9,10 +9,10 @@ permalink: /
 <div class="container">
 </div>
 
-<div class="col-sm-5" style="table-layout: fixed;">	
+<div class="col-sm-5">	
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/dim.jpg" width="100%">
 </div>
-<div class="col-sm-7" style="table-layout: fixed;margin:0; padding-top:0;">
+<div class="col-sm-7" style="margin:0; padding-top:0;">
   <h1 style="text-align:left;vertical-align: top;margin:0; padding-top:0;">Dim Papadopoulos</h1> 
   <h3 style="text-align:left;vertical-align: top;margin:0; padding-top:0;">Associate Professor</h3> 
   <p style="text-align:left;float:left;vertical-align: top;margin:0; padding-top:0;">[Section for Visual Computing](https://www.compute.dtu.dk/english/research/research-sections/visual-computing)<br>
