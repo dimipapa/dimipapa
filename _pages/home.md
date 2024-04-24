@@ -28,8 +28,8 @@ permalink: /
 learning visual recognition models under limited supervision. <br><br></p>
 
 
-<div class="p-3 mb-2 bg-primary text-white"> 
-<b>Open PostDoc Position</b> in the area of computer vision with deep learning for material and computational design in collaboration with the Royal Danish Academy. [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare) Deadline: 15 May 2024
+<div class="p-3 mb-2 bg-danger text-white"> 
+<b>Open PostDoc Position</b> in the area of computer vision with deep learning for material and computational design in collaboration with the Royal Danish Academy. Deadline: 15 May 2024 <br> [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare)  <br><br><br>
 </div>
 
 
