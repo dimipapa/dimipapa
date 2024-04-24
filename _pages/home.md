@@ -14,8 +14,8 @@ permalink: /
 </div>
 <div class="col-sm-7" style="margin:0; padding-top:0;">
   <h1 style="text-align:left;vertical-align: top;margin:0; padding-top:0;">Dim Papadopoulos</h1> 
-  <h3 style="text-align:left;vertical-align: top;margin:0; padding-top:5px;">Associate Professor</h3> 
-  <p style="text-align:left;float:left;vertical-align: top;margin:0; padding-top:0;">[Section for Visual Computing](https://www.compute.dtu.dk/english/research/research-sections/visual-computing)<br>
+  <h3 style="text-align:left;vertical-align: top;margin:0; padding-top:3px;">Associate Professor</h3> 
+  <p style="text-align:left;float:left;vertical-align: top;margin:0; padding-top:2px;">[Section for Visual Computing](https://www.compute.dtu.dk/english/research/research-sections/visual-computing)<br>
   [Department of Applied Mathematics and Computer Science](https://www.compute.dtu.dk/english/) <br>
   [Technical University of Denmark (DTU)](https://www.dtu.dk/english/)<br>
   Email<br>
@@ -33,5 +33,5 @@ learning visual recognition models under limited supervision.
  -->
 
 <!--<figure class="fourth"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height: 60px">
 <!--</figure> -->
