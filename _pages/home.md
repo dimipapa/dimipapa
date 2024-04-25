@@ -21,7 +21,8 @@ permalink: /
   <i class="bi bi-envelope"></i> dimp[at]dtu[dot]dk<br>
   <i class="bi bi-house"></i> Building 324, Room 160 <br>
   [ <a href="https://scholar.google.com/citations?user=-_JAhdQAAAAJ"><i class="bi bi-google"></i> Scholar</a> ] 
-  [ <a href="https://twitter.com/dim_p_papa"><i class="bi bi-twitter"></i> Twitter</a> ] <br><br> </p>
+  [ <a href="https://twitter.com/dim_p_papa"><i class="bi bi-twitter"></i> Twitter</a> ] 
+  [ <a href="https://github.com/dimipapa"><i class="bi bi-github"></i> Github</a> ] <br><br> </p>
 </div>
 
 <br><br><br><br>
