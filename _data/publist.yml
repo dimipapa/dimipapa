@@ -1,3 +1,13 @@
+- title: "A Simple Pathway to Bias Mitigation in Generative AI"
+  image: parslov24wacv.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Workshop
+    short: CVPR-W
+  year: 2024
+  authors: Carolina Lopez Olmos, Alexandros Neophytou, Sunando Sengupta, Dim P. Papadopoulos
+  link:
+    todo: todo
+
 - title: "Learning the What and How of Annotation in Video Object Segmentation"
   image: delatolas24wacv.png
   conference: 
@@ -9,7 +19,6 @@
     website: https://eva-vos.compute.dtu.dk/
     arxiv: https://arxiv.org/abs/2311.04414
     code: https://github.com/thanosDelatolas/eva-vos
-
 
 - title: "Procedural generation of car crashes for damage assessment"
   image: parslov24wacv.png
@@ -23,6 +32,140 @@
     arxiv: https://arxiv.org/abs/2311.06536
     code: https://github.com/JensPars/CrashCar_procedural_generation
     video: https://www.youtube.com/watch?v=EJJ7rtoNEd8
+
+- title: "Visual Context-Aware Person Fall Detection"
+  image: parslov24wacv.png
+  conference: 
+    full: International KES Conference on Intelligent Decisions Technologies
+    short: KES-IDT
+  year: 2024
+  authors: Aleksander Nagaj, Zenjie Li, Dim P. Papadopoulos, Kamal Nasrollahi
+  link:
+    arxiv: https://arxiv.org/abs/2404.08088
+
+- title: "EVA-VOS: Efficient Video Annotation for Video Object Segmentation"
+  image: parslov24wacv.png
+  conference: 
+    full: International Conference of Computer Vision Workshop (ICCV-W)
+    short: ICCV-W
+  year: 2023
+  authors: Thanos Delatolas, Vicky Kalogeiton, Dim P. Papadopoulos
+  link:
+    website: https://eva-vos.compute.dtu.dk/
+    arxiv: https://eva-vos.compute.dtu.dk/resources/eva_vos.pdf
+
+- title: "Learning Program Representations for Food Images and Cooking Recipes"
+  image: parslov24wacv.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Conference
+    short: CVPR
+  year: 2022
+  authors: Dim P. Papadopoulos, Enrique Mora, Nadiia Chepurko, Kuan Wei Huang, Ferda Ofli, Antonio Torralba
+  link:
+    website: http://cookingprograms.csail.mit.edu/
+    arxiv: https://arxiv.org/abs/2203.16071
+
+- title: "Incidents1M: a large-scale dataset of images with natural disasters, damage, and
+incidents"
+  image: parslov24wacv.png
+  conference: 
+    full: IEEE Pattern Analysis and Machine Intelligence
+    short: PAMI
+  year: 2022
+  authors: Ethan Weber, Dim P. Papadopoulos, Agata Lapedriza, Ferda Ofli, Muhammad Imran, Antonio Torralba
+  link:
+    website: http://incidentsdataset.csail.mit.edu/
+    arxiv: https://arxiv.org/abs/2201.04236
+    code: https://github.com/ethanweber/IncidentsDataset
+
+- title: "Scaling up instance segmentation via label propagation"
+  image: parslov24wacv.png
+  conference: 
+    full: International Conference of Computer Vision
+    short: ICCV
+  year: 2021
+  authors: Dim P. Papadopoulos, Ethan Weber, Antonio Torralba
+  link:
+    website: http://scaling-anno.csail.mit.edu/
+    arxiv: https://arxiv.org/abs/2110.02277
+    code: https://github.com/ethanweber/scaling-anno
+
+- title: "Detecting natural disasters, damage, and incidents in the wild"
+  image: parslov24wacv.png
+  conference: 
+    full: European Conference of Computer Vision
+    short: ECCV
+  year: 2020
+  authors: Ethan Weber, Nuria Marzo, Dim P. Papadopoulos, Aritro Biswas, Agata Lapedriza, Ferda Ofli, Muhammad Imran, Antonio Torralba
+  link:
+    website: http://incidentsdataset.csail.mit.edu/
+    arxiv: https://arxiv.org/abs/2008.09188
+    code: https://github.com/ethanweber/IncidentsDataset
+
+- title: "How to make a pizza: Learning a compositional layer-based GAN model"
+  image: parslov24wacv.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Conference
+    short: CVPR
+  year: 2019
+  authors: Dim P. Papadopoulos, Youssef Tamaazousti, Ferda Ofli, Ingmar Weber, Antonio Torralba
+  link:
+    website: http://pizzagan.csail.mit.edu/
+    arxiv: https://arxiv.org/abs/1906.02839
+
+- title: "Extreme clicking for efficient object annotation"
+  image: parslov24wacv.png
+  conference: 
+    full: International Conference of Computer Vision
+    short: ICCV
+  year: 2017
+  authors: Dim P. Papadopoulos, Jasper R. R. Uijlings, Frank Keller, Vittorio Ferrari
+  link:
+    arxiv: https://arxiv.org/abs/1708.02750
+
+- title: "Training object class detectors with click supervision"
+  image: parslov24wacv.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Conference
+    short: CVPR
+  year: 2017
+  authors: Dim P. Papadopoulos, Jasper R. R. Uijlings, Frank Keller, Vittorio Ferrari
+  link:
+    website: https://calvin-vision.net/datasets/center-click-annotations/
+    arxiv: https://arxiv.org/abs/1704.06189
+
+- title: "We don’t need no bounding-boxes: Training object class detectors using only human verification"
+  image: parslov24wacv.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Conference
+    short: CVPR
+  year: 2016
+  authors: Dim P. Papadopoulos, Jasper R. R. Uijlings, Frank Keller, Vittorio Ferrari
+  link:
+    arxiv: https://arxiv.org/abs/1602.08405
+
+- title: "How hard can it be? Estimating the difficulty of visual search in an image"
+  image: parslov24wacv.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Conference
+    short: CVPR
+  year: 2016
+  authors: Radu Ionescu, Bogdan Alexe, Marius Leordeanu, Marius Popescu, Dim P. Papadopoulos, Vittorio Ferrari
+  link:
+    website: http://image-difficulty.herokuapp.com/
+    arxiv: https://arxiv.org/abs/1705.08280
+
+- title: "Training object class detectors from eye tracking data"
+  image: parslov24wacv.png
+  conference: 
+    full: European Conference of Computer Vision
+    short: ECCV
+  year: 2014
+  authors: Dim P. Papadopoulos, Jasper R. R. Uijlings, Frank Keller, Vittorio Ferrari
+  link:
+    arxiv: https://link.springer.com/chapter/10.1007/978-3-319-10602-1_24
+    website: https://calvin-vision.net/datasets/poet-dataset/
+
 
 
 
