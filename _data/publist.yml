@@ -9,5 +9,22 @@
     website: https://eva-vos.compute.dtu.dk/
     arxiv: https://arxiv.org/abs/2311.04414
     code: https://github.com/thanosDelatolas/eva-vos
+
+
+- title: "Procedural generation of car crashes for damage assessment"
+  image: parslov24wacv.png
+  conference: 
+    full: Winter Conference on Applications of Computer Vision
+    short: WACV
+  year: 2024
+  authors: Jens Parslov, Erik Riise, Dim P. Papadopoulos
+  link:
+    website: https://crashcar.compute.dtu.dk/
+    arxiv: https://arxiv.org/abs/2311.06536
+    code: https://github.com/JensPars/CrashCar_procedural_generation
+    video: https://www.youtube.com/watch?v=EJJ7rtoNEd8
+
+
+
   
 
