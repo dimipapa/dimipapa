@@ -14,7 +14,7 @@ permalink: /publications/
 
 <div class="row">
 <div class="col-sm-3">
-  <img style="text-align:left;vertical-align: top;margin:0; padding-top:0;" src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" width="100%" class="img-thumbnail">
+  <img style="text-align:left;vertical-align: top;margin:0; padding-top:0;" src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" class="img-fluid" width="100%">
 </div>
 <div class="col-sm-8"> 
   {{ publi.authors }}<br />
