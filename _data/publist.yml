@@ -145,7 +145,7 @@ incidents"
     arxiv: https://arxiv.org/abs/1602.08405
 
 - title: "How hard can it be? Estimating the difficulty of visual search in an image"
-  image: papadopoulos16cvpr.png
+  image: ionescu16cvpr.png
   conference: 
     full: Computer Vision and Pattern Recognition Conference
     short: CVPR
