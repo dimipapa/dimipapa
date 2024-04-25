@@ -12,6 +12,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
+<div class="row">
 <div class="col-sm-4">
   <img style="text-align:left;vertical-align: top;margin:0; padding-top:0;" src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" width="100%">
 </div>
@@ -21,6 +22,6 @@ permalink: /publications/
   <em>{{ publi.conference.full }}</em>, <b>({{ publi.conference.short }})</b>, {{ publi.year }} <br />
   <a href="{{ publi.link.website }}">[Project Page]</a> <a href="{{ publi.link.arxiv }}">[Arxiv]</a> <a href="{{ publi.link.website }}">[Code]</a>
 </div>
-<br />
+</div>
 
 {% endfor %}
