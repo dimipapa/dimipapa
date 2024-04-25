@@ -18,7 +18,7 @@ permalink: /
   <p style="text-align:left;float:left;vertical-align: top;margin:0; padding-top:2px;">[Section for Visual Computing](https://www.compute.dtu.dk/english/research/research-sections/visual-computing)<br>
   [Department of Applied Mathematics and Computer Science](https://www.compute.dtu.dk/english/) <br>
   [Technical University of Denmark (DTU)](https://www.dtu.dk/english/)<br>
-  Email<br>
+  <i class="bi bi-envelope"></i> dimp[at]dtu[dot]dk<br>
   Contact details <br>
   Scholar Twitter <br><br> </p>
 </div>
