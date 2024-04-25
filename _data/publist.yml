@@ -167,7 +167,7 @@ incidents"
     website: https://calvin-vision.net/datasets/poet-dataset/
 
 - title: "Automatic summarization and annotation of videos with lack of metadata information"
-  image: papadopoulos12eswa.png
+  image: papadopoulos13eswa.png
   conference: 
     full: Expert Systems with Applications
     short: ESWA
@@ -177,7 +177,7 @@ incidents"
     arxiv: https://www.sciencedirect.com/science/article/pii/S0957417413001322?casa_token=ZTbr0qfSKbAAAAAA:NQkoqKvq6FsFF2fW0FFz1zFmSgioIxos3mZkVSpMPP7r3YgP62gJ3Qcjjom9PErU7hBdp6E4Ag
 
 - title: "Video summarization using a self-growing and self-organized neural gas network"
-  image: papadopoulos14eccv.jpeg
+  image: papadopoulos11mirage.png
   conference: 
     full: Computer Vision/Computer Graphics Collaboration Techniques 
     short: MIRAGE
@@ -187,7 +187,7 @@ incidents"
     arxiv: https://link.springer.com/chapter/10.1007/978-3-642-24136-9_19
 
 - title: "A Novel Video Summarization Method Based on Compact Composite Descriptors and Fuzzy Classifier"
-  image: kalogeiton10eureka.jpeg
+  image: kalogeiton10eureka.png
   conference: 
     full: Computer Vision/Computer Graphics Collaboration Techniques 
     short: EUREKA
