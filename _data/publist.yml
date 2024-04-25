@@ -1,5 +1,5 @@
 - title: "A Simple Pathway to Bias Mitigation in Generative AI"
-  image: parslov24wacv.png
+  image: olmos24cvprw.png
   conference: 
     full: Computer Vision and Pattern Recognition Workshop
     short: CVPR-W
@@ -34,7 +34,7 @@
     video: https://www.youtube.com/watch?v=EJJ7rtoNEd8
 
 - title: "Visual Context-Aware Person Fall Detection"
-  image: parslov24wacv.png
+  image: nagaj24kes.png
   conference: 
     full: International KES Conference on Intelligent Decisions Technologies
     short: KES-IDT
@@ -44,7 +44,7 @@
     arxiv: https://arxiv.org/abs/2404.08088
 
 - title: "EVA-VOS: Efficient Video Annotation for Video Object Segmentation"
-  image: parslov24wacv.png
+  image: delatolas23iccvw.png
   conference: 
     full: International Conference of Computer Vision Workshop (ICCV-W)
     short: ICCV-W
@@ -55,7 +55,7 @@
     arxiv: https://eva-vos.compute.dtu.dk/resources/eva_vos.pdf
 
 - title: "Learning Program Representations for Food Images and Cooking Recipes"
-  image: parslov24wacv.png
+  image: papadopoulos22cvpr.png
   conference: 
     full: Computer Vision and Pattern Recognition Conference
     short: CVPR
@@ -67,7 +67,7 @@
 
 - title: "Incidents1M: a large-scale dataset of images with natural disasters, damage, and
 incidents"
-  image: parslov24wacv.png
+  image: weber22pami.png
   conference: 
     full: IEEE Pattern Analysis and Machine Intelligence
     short: PAMI
@@ -79,7 +79,7 @@ incidents"
     code: https://github.com/ethanweber/IncidentsDataset
 
 - title: "Scaling up instance segmentation via label propagation"
-  image: parslov24wacv.png
+  image: papadopoulos21iccv.png
   conference: 
     full: International Conference of Computer Vision
     short: ICCV
@@ -91,7 +91,7 @@ incidents"
     code: https://github.com/ethanweber/scaling-anno
 
 - title: "Detecting natural disasters, damage, and incidents in the wild"
-  image: parslov24wacv.png
+  image: weber20eccv.png
   conference: 
     full: European Conference of Computer Vision
     short: ECCV
@@ -103,7 +103,7 @@ incidents"
     code: https://github.com/ethanweber/IncidentsDataset
 
 - title: "How to make a pizza: Learning a compositional layer-based GAN model"
-  image: parslov24wacv.png
+  image: papadopoulos19cvpr.png
   conference: 
     full: Computer Vision and Pattern Recognition Conference
     short: CVPR
@@ -114,7 +114,7 @@ incidents"
     arxiv: https://arxiv.org/abs/1906.02839
 
 - title: "Extreme clicking for efficient object annotation"
-  image: parslov24wacv.png
+  image: papadopoulos17iccv.png
   conference: 
     full: International Conference of Computer Vision
     short: ICCV
@@ -124,7 +124,7 @@ incidents"
     arxiv: https://arxiv.org/abs/1708.02750
 
 - title: "Training object class detectors with click supervision"
-  image: parslov24wacv.png
+  image: papadopoulos17cvpr.png
   conference: 
     full: Computer Vision and Pattern Recognition Conference
     short: CVPR
@@ -135,7 +135,7 @@ incidents"
     arxiv: https://arxiv.org/abs/1704.06189
 
 - title: "We don’t need no bounding-boxes: Training object class detectors using only human verification"
-  image: parslov24wacv.png
+  image: papadopoulos16cvpr.png
   conference: 
     full: Computer Vision and Pattern Recognition Conference
     short: CVPR
@@ -145,7 +145,7 @@ incidents"
     arxiv: https://arxiv.org/abs/1602.08405
 
 - title: "How hard can it be? Estimating the difficulty of visual search in an image"
-  image: parslov24wacv.png
+  image: papadopoulos16cvpr.png
   conference: 
     full: Computer Vision and Pattern Recognition Conference
     short: CVPR
@@ -156,7 +156,7 @@ incidents"
     arxiv: https://arxiv.org/abs/1705.08280
 
 - title: "Training object class detectors from eye tracking data"
-  image: parslov24wacv.png
+  image: papadopoulos14eccv.png
   conference: 
     full: European Conference of Computer Vision
     short: ECCV
