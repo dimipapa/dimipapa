@@ -26,5 +26,3 @@ permalink: /publications/
 
 {% endfor %}
 
-
-<a href="{{ publi.link.website }}"><span class="badge rounded-pill text-bg-dark">Project Page</span></a>
