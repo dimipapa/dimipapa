@@ -19,8 +19,9 @@ permalink: /
   [Department of Applied Mathematics and Computer Science](https://www.compute.dtu.dk/english/) <br>
   [Technical University of Denmark (DTU)](https://www.dtu.dk/english/)<br>
   <i class="bi bi-envelope"></i> dimp[at]dtu[dot]dk<br>
-  Contact details <br>
-  Scholar Twitter <br><br> </p>
+  <i class="bi bi-house"></i> Building 324, Room 160 <br>
+  [ <a href="https://scholar.google.com/citations?user=-_JAhdQAAAAJ"><i class="bi bi-google"></i> Scholar</a> ] 
+  [ <a href="https://twitter.com/dim_p_papa"><i class="bi bi-twitter"></i> Twitter</a> ] <br><br> </p>
 </div>
 
 <br><br><br><br>
