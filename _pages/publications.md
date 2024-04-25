@@ -13,7 +13,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 <div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" width="100%">
+  <img style="text-align:left;vertical-align: top;margin:0; padding-top:0;" src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" width="100%">
 </div>
 <div class="col-sm-8"> 
   {{ publi.authors }}<br />
