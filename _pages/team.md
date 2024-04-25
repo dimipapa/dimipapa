@@ -22,11 +22,14 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i> 
+  {% if member.topic  %}
   <ul style="overflow: hidden">
       <li> Co-supervise with {{ member.cosupervisor }} </li>
       <li> Topic: {{ member.topic }} </li>
   </ul>
+  {% endif %}
 </div>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
