@@ -20,8 +20,11 @@ permalink: /publications/
   {{ publi.authors }}<br />
   <b>{{ publi.title }}</b> <br />
   <em>{{ publi.conference.full }}</em>, <b>({{ publi.conference.short }})</b>, {{ publi.year }} <br />
-  {% if publi.link.website %} <a href="{{ publi.link.website }}">[Project Page]</a> {% endif %} {% if publi.link.arxiv %} <a href="{{ publi.link.arxiv }}">[Arxiv]</a> {% endif %} {% if publi.link.code %} <a href="{{ publi.link.website }}">[Code]</a> {% endif %} {% if publi.link.video  %} <a href="{{ publi.link.video }}">[Video]</a> {% endif %}
+  {% if publi.link.website %} <a href="{{ publi.link.website }}"><span class="badge rounded-pill text-bg-dark">PROJECT PAGE</span></a> {% endif %} {% if publi.link.arxiv %} <a href="{{ publi.link.arxiv }}"><span class="badge rounded-pill text-bg-dark">ARXIV</span></a> {% endif %} {% if publi.link.code %} <a href="{{ publi.link.code }}"><span class="badge rounded-pill text-bg-dark">CODE</span></a> {% endif %} {% if publi.link.video  %} <a href="{{ publi.link.video }}"><span class="badge rounded-pill text-bg-dark">VIDEO</span></a> {% endif %}
 </div>
 </div>
 
 {% endfor %}
+
+
+<a href="{{ publi.link.website }}"><span class="badge rounded-pill text-bg-dark">Project Page</span></a>
