@@ -21,5 +21,6 @@ permalink: /publications/
   <em>{{ publi.conference.full }}</em>, <b>({{ publi.conference.short }})</b>, {{ publi.year }} <br />
   <a href="{{ publi.link.website }}">[Project Page]</a> <a href="{{ publi.link.arxiv }}">[Arxiv]</a> <a href="{{ publi.link.website }}">[Code]</a>
 </div>
+<br />
 
 {% endfor %}
