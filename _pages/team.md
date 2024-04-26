@@ -107,8 +107,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
-[{{ member.date }}] <b>{{ member.name }} </b>: <i>{{ member.topic }}</i>
-{{ member.name }}
+[{{ member.date }}] <b>{{ member.name }}</b>: <i>{{ member.topic }}</i>
 {% endfor %}
 </div>
 
