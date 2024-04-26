@@ -1,6 +1,14 @@
 - name: Carolina Lopez Olmos
   date: Fall 2023
   topic: Learning global data representations through generative AI and language models: A journey towards Responsible AI
+
+- name: Alejandro Valverde Mahou
+  date: Fall 2023
+  topic: Ice core line-scan analysis using Computer Vision and Deep Learning
+
+- name: Jakob Thirup Fahl
+  date: Fall 2023
+  topic: Temporal Localization of Group Activities in Football Videos
  
 - name: Aleksander Nagaj
   date: Fall 2023
@@ -13,6 +21,10 @@
 - name: Patrick Dominique Vibild
   date: Fall 2023
   topic: Development of a Data Acquisition Pipeline for Distance Estimation of Boats in Monocular Systems
+
+- name: Francisc Vlad Loghin
+  date: Fall 2023
+  topic: Interactive video object segmentation using a vision transformer
   
 - name: Merkourios Giannikos
   date: Spring 2023
