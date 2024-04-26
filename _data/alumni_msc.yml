@@ -1,3 +1,11 @@
+- name: Thomas Faissal Fayad
+  date: Fall 2023
+  topic: Interactive video object segmentation with click-based label propagation
+
+- name: Patrick Dominique Vibild
+  date: Fall 2023
+  topic: Development of a Data Acquisition Pipeline for Distance Estimation of Boats in Monocular Systems
+  
 - name: Merkourios Giannikos
   date: Spring 2023
   topic: Efficient image annotation using reinforcement learning
