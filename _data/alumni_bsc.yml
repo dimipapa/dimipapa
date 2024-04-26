@@ -1,13 +1,24 @@
-- name: Martin Ægidius, Fall 2022 <br> Learning to detect objects from eye-tracking data using a vision transformer
+- name: Martin Ægidius
+  date: Fall 2022
+  topic: Learning to detect objects from eye-tracking data using a vision transformer
 
-- name: Jens Parslov, Fall 2022 <br/>Part and damage segmentation of cars using synthetic data
+- name: Jens Parslov
+  date: Fall 2022
+  topic: Part and damage segmentation of cars using synthetic data
 
-- name: Erik Riise, Fall 2022 <br/>Part and damage segmentation of cars using synthetic data
+- name: Erik Riise
+  date: Fall 2022
+  topic: Part and damage segmentation of cars using synthetic data
 
-- name: Jakob Ketmig, Fall 2022 <br/>Occlusion-robust cattle pose estimation using keypoint prediction
+- name: Jakob Ketmig
+  date: Fall 2022
+  topic: Occlusion-robust cattle pose estimation using keypoint prediction
 
-- name: Alexander Valentini, Fall 2022 <br/>Occlusion-robust cattle pose estimation using keypoint prediction
+- name: Alexander Valentini
+  date: Fall 2022
+  topic: Occlusion-robust cattle pose estimation using keypoint prediction
 
-- name: Oliver Zacho, Fall 2022 <br/>Detecting significant events in sports videos using computer vision
-
+- name: Oliver Zacho
+  date: Fall 2022
+  topic: Detecting significant events in sports videos using computer vision
 
