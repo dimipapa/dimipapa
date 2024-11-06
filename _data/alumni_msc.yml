@@ -1,3 +1,19 @@
+- name: Copy Paste Data Augmentation for Video Object Segmentation
+  date: Spring 2024
+  topic: Ioannis Manganas
+  
+- name: Weakly supervised 3D object detection
+  date: Spring 2024
+  topic: Andreas Lau Hansen
+
+- name: Weakly supervised 3D object detection
+  date: Spring 2024
+  topic: Lukas Daniel Visti Wanzeck
+  
+- name: Learning to Segment and Track any Object for Video Object Segmentation
+  date: Spring 2024
+  topic: Alexandros Avramis
+
 - name: Carolina Lopez Olmos
   date: Fall 2023
   topic: Learning global data representations through generative AI and language models. A journey towards Responsible AI
