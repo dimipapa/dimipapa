@@ -16,3 +16,10 @@
   email: marscho[at]dtu[dot].dk
   cosupervisor: <a href="https://sergebelongie.github.io/">Prof. Serge Belongie</a>
   topic: Human-machine collaboration
+
+- name: Onur Kaya
+  photo: onur.png
+  info: PhD student, started Nov 2024
+  email: monka[at]dtu[dot].dk
+  cosupervisor: <a href="https://elliottd.github.io/">Prof. Desmond Elliott</a>
+  topic: Multimodal labeling and learning
