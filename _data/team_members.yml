@@ -4,14 +4,14 @@
   email: dimp[at]dtu[dot].dk
 
 - name: Thanos Delatolas
-  photo: thanos.jpeg
+  photo: thanos.png
   info: PhD student, started Sep 2022
   email: atde[at]dtu[dot].dk
   cosupervisor: <a href="https://vicky.kalogeiton.info/">Prof. Vicky Kalogeiton</a>
   topic: Video segmentation and annotation
 
 - name: Marco Schouten
-  photo: marco.jpeg
+  photo: marco.png
   info: PhD student, started Nov 2023
   email: marscho[at]dtu[dot].dk
   cosupervisor: <a href="https://sergebelongie.github.io/">Prof. Serge Belongie</a>
