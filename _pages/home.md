@@ -30,11 +30,12 @@ permalink: /
 learning visual recognition models under limited supervision. <br><br></p>
 
 
-
+<!--
 <div class="alert alert-warning" role="alert">
   <h3 style="text-align:left;vertical-align: top;margin:2px;padding-top:3px;padding-bottom:3px;"><b>Open PostDoc position</b></h3>
   We have an open PostDoc position in computer vision with deep learning for material and computational design.  Deadline: 30 May 2024. [Apply here](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3405/?utm_medium=jobshare)
 </div>
+-->
 
 
 <br><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtu.png" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/p1.jpeg" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dff.png" style="height: 70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/villum.png" style="height:70px">
